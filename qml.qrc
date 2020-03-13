@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>cam.png</file>
+        <file>grid.svg</file>
+        <file>miro-side.svg</file>
+        <file>miro-top.svg</file>
+    </qresource>
+</RCC>
